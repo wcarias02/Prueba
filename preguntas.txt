@@ -1,0 +1,3 @@
+¿Qué es GitHub?
+
+GitHub es una plataforma donde puedes guardar las versiones que descargas en git, sirve para crear repositorios, guardar información de codigos y donde puedes colaborar con varios usuarios para la creación de un proyecto.
